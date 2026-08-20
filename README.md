@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akshatopxm/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0682-baseball-game](https://github.com/akshatopxm/Leetcode/tree/master/0682-baseball-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatopxm/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/akshatopxm/Leetcode/tree/master/0682-baseball-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatopxm/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Queue
 |  |
 | ------- |
