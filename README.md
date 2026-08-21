@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/akshatopxm/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/akshatopxm/Leetcode/tree/master/0901-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
