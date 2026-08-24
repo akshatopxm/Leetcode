@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akshatopxm/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0682-baseball-game](https://github.com/akshatopxm/Leetcode/tree/master/0682-baseball-game) |
+| [0904-fruit-into-baskets](https://github.com/akshatopxm/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatopxm/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatopxm/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatopxm/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/akshatopxm/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/akshatopxm/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatopxm/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatopxm/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
+| [0904-fruit-into-baskets](https://github.com/akshatopxm/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
