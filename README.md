@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/akshatopxm/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/akshatopxm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/akshatopxm/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/akshatopxm/Leetcode/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/akshatopxm/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshatopxm/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/akshatopxm/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/akshatopxm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/akshatopxm/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 ## Monotonic Queue
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akshatopxm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatopxm/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
+| [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/akshatopxm/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshatopxm/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshatopxm/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshatopxm/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatopxm/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshatopxm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/akshatopxm/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/akshatopxm/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 ## Merge Sort
 |  |
