@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatopxm/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akshatopxm/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/akshatopxm/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/akshatopxm/Leetcode/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/akshatopxm/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/akshatopxm/Leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/akshatopxm/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatopxm/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/akshatopxm/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/akshatopxm/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/akshatopxm/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatopxm/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshatopxm/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/akshatopxm/Leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/akshatopxm/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
