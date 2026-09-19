@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/akshatopxm/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatopxm/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akshatopxm/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/akshatopxm/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshatopxm/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshatopxm/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatopxm/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/akshatopxm/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshatopxm/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akshatopxm/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/akshatopxm/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatopxm/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshatopxm/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshatopxm/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/akshatopxm/Leetcode/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/akshatopxm/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Quickselect
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/akshatopxm/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/akshatopxm/Leetcode/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/akshatopxm/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Merge Sort
 |  |
 | ------- |
