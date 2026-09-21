@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akshatopxm/Leetcode/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatopxm/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akshatopxm/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/akshatopxm/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akshatopxm/Leetcode/tree/master/0066-plus-one) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akshatopxm/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3870-count-commas-in-range](https://github.com/akshatopxm/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshatopxm/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
