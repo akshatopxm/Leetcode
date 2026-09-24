@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/akshatopxm/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshatopxm/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshatopxm/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2706-buy-two-chocolates](https://github.com/akshatopxm/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatopxm/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshatopxm/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshatopxm/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/akshatopxm/Leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/akshatopxm/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2706-buy-two-chocolates](https://github.com/akshatopxm/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Quickselect
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/akshatopxm/Leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/akshatopxm/Leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/akshatopxm/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2706-buy-two-chocolates](https://github.com/akshatopxm/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Merge Sort
 |  |
 | ------- |
